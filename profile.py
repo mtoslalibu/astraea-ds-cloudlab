@@ -1,3 +1,6 @@
+"""This is to set up social network microservice-based cloud application on cloudlab env.  
+"""	  
+
 # Import the Portal object.
 import geni.portal as portal
 # Import the ProtoGENI library.
